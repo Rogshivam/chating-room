@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  background: #f4f4f4;
+  background: #102133;
   margin: 0;
   padding: 0;
   display: flex;
@@ -9,7 +9,7 @@ body {
   height: 100vh;
 }
 #room-select, #chat {
-  background: #fff;
+  background: #6B7280;
   padding: 2rem;
   border-radius: 8px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.1);
@@ -21,7 +21,7 @@ body {
   overflow-y: auto;
   margin-bottom: 1rem;
   padding: 0.5rem;
-  background: #fafafa;
+  background: #264268;
 }
 #message-form {
   display: flex;
@@ -29,7 +29,7 @@ body {
 #message-input {
   flex: 1;
   padding: 0.5rem;
-  border: 1px solid #ccc;
+  border: 1px solid #ffffff;
   border-radius: 4px;
 }
 button {
@@ -45,6 +45,6 @@ button:hover {
   background: #0056b3;
 }
 .system {
-  color: #888;
+  color: #ffffff;
   font-style: italic;
 } 
